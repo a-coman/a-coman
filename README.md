@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Andrei, an incoming master's student in Software Engineering and Artificial Intelligence at the University of Málaga. 
+I'm Andrei, an Industrial Engineer and incoming master's student in Software Engineering and Artificial Intelligence at the University of Málaga. 
 
 - 🔭 I'm currently a researcher at the Atenea research group, where I'm exploring AI and Model-Based Software Engineering.
 
