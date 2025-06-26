@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Andrei, an incoming master's student in Software Engineering and Artificial Intelligence at the University of Málaga. 
+
+- 🔭 I'm currently a researcher at the Atenea research group, where I'm exploring AI and Model-Based Software Engineering.
+
+- 🛠️ I worked with: C#, C/C++, Python, Java, REST APIs, Linux, Git, and tools like UML (USE), Arduino and the Atlassian Suite.
+
+- 🎮 I love solving problems, building things that help people, and geeking out over software architecture and video games.
+
+🐾 Thanks for stopping by :)
 
 <!--
 **a-coman/a-coman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
