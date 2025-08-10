@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-I'm Andrei, an Industrial Engineer and incoming master's student in Software Engineering and Artificial Intelligence at the University of Málaga. 
+I'm Andrei, an Industrial Engineer who likes solving problems and building cool things that help people.
 
-- 🔭 I'm currently a researcher at the Atenea research group, where I'm exploring AI and Model-Based Software Engineering.
+- 🔎 I'm currently a researcher at the [Atenea research group](https://atenea.lcc.uma.es/), where I'm exploring AI and Model-Based Software Engineering.
 
-- 🛠️ I worked with: C#, C/C++, Python, Java, REST APIs, Linux, Git, and tools like UML (USE), Arduino and the Atlassian Suite.
+- 🛠️ I worked with: Java, Python, C#, C/C++, REST APIs, Linux, Git, and tools like UML (USE), Arduino and the Atlassian Suite.
 
-- 🎮 I love solving problems, building things that help people, and geeking out over software architecture and video games.
+- 🎮 I enjoy software engineering, AI and video games.
 
 🐾 Thanks for stopping by :)
 
